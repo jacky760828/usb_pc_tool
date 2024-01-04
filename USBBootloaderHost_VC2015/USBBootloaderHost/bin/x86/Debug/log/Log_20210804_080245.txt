@@ -1,0 +1,2 @@
+2021-08-04 20:02:45,588 INFO 1  - USBBootloaderHost: init logger
+2021-08-04 20:02:45,612 INFO 1  - USBBootloaderHost: Warning!!!Device Disconnected
